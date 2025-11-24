@@ -2,7 +2,7 @@ Task 1: Data Visualization - Histogram of Age Distribution
 
 Overview
 
-This task is part of my Data Science internship at Prodigy InfoTech, where I worked on visualizing the distribution of the 'Age' column from a dataset using a histogram. The goal of this task was to practice data cleaning and analysis techniques while applying a visual representation to communicate insights effectively.
+In this task, I have worked on visualizing the distribution of the 'Age' column from a dataset using a histogram. The goal of this task was to practice data cleaning and analysis techniques while applying a visual representation to communicate insights effectively.
 
 Objective
 
